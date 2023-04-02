@@ -15,14 +15,6 @@ One-Click to deploy your own ChatGPT web UI.
 
 </div>
 
-## Main Function
-
-- Use Vercel **FREE 1-Click Deployment** within 1 minute.
-- Well-designed UI, responsive design, supports dark mode.
-- Extremely fast above the fold loading speed (~85kb).
-- Automatically compress contextual chat records to support ultra-long conversations while saving Token.
-- One-click export of chat history, complete Markdown support.
-- Have your own domain name? Best of all, bind it for quick access from anywhere **Barrier-Free
 
 ## Features
 
@@ -43,21 +35,12 @@ One-Click to deploy your own ChatGPT web UI.
 - User login, accounts, cloud sync
 - UI text customize 
 
-## Start Using
-
-1. ready for your [OpenAI API Key](https://platform.openai.com/account/api-keys);
-2. Click the button on the right to start deployment：
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheColdPrince%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)，Use directly Github Just log in with the account, remember to fill in the environment variable page API Key；
-3. Once deployed, you can start using；
-4. (Optional) [Bind a custom domain name](https://vercel.com/docs/concepts/projects/domains/add-a-domain): The domain name DNS assigned by Vercel is polluted in some areas, bind Custom domain names can be directly connected.
-
 ## Get Started
 
 1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
 2. Click
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheColdPrince%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web);
 3. Enjoy :)
-
 
 If you have deployed your own project with just one click following the steps above, you may encounter the issue of "Updates Available" constantly showing up. This is because Vercel will create a new project for you by default instead of forking this project, resulting in the inability to detect updates correctly.
 
